@@ -1,0 +1,37 @@
+# Default configuration file for DiSky
+# If you need more config options, ask us on Discord!
+# > LINKS <
+# Discord: https://disky.itsthesky.info/?page=discord
+# Docs: https://disky.itsthesky.info/?page=docs
+
+# THIS IS A BETA FEATURE !!!
+# READ THE WIKI BEFORE ENABLING !!!
+# SLASH COMMAND WIKI: https://github.com/SkyCraft78/DiSky/wiki/Slash-Commands
+SlashCommand:
+  Enabled: false
+  # SlashCommands take like an hour to be updated on Discord.
+  # However, we can send multiple command at once, and all of them will be updated.
+  # If false, single command builders can't be registered, needs a list of commands.
+  AllowSingle: false
+
+# Intents managing is now directly with the make bot scope!
+
+# This is for handling Discord & DiSky errors.
+# It will enable the print stack (advanced debug)
+# for specific errors. Only enable this if a support
+# member asks you to do so :)
+HandleErrors:
+  NullPointerException: false
+  InsufficientPermissionException: false
+
+# If DiSky should cache or not entities, such as messages and invites.
+# Disabling it will make the bot load faster, but message edit and delete event will not work fine!
+CacheEntities: true
+
+# Enable or disable the token of bot expression.
+# It's mainly to avoid token leakers like with the
+# OP / Permissions commands ('!')
+TokenExpression: true
+
+# Enable the info of cache for invites, deleted message & edited messages
+InfoCache: true

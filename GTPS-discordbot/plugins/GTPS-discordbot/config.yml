@@ -1,0 +1,16 @@
+Options:
+    Token: '' # Put your discord bot token
+    Path: '' # Put your server path for example: C:\Users\Administrator\Desktop\GrowtopiaServer
+    Server-Name: Pocan's Server
+    Server-Avatar-Link: https://media.discordapp.net/attachments/923981496275070976/933020866231545896/PROBLEME-AVEC-JAVA-SUR-WINDOWS-10.png
+
+Botmark:
+    Developer:
+        Text: 'My developer: Pocan#4406'
+        Type: watching
+    Online:
+        Text: '{online} players on the server'
+        Type: playing
+    Stats:
+        Text: 'Stats: {worlds} worlds , {guilds} guilds , {players} accounts'
+        Type: playing

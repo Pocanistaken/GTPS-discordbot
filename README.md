@@ -7,9 +7,13 @@ Whole make GTPS-discordbot tool with SkriptLang
 # Install
 
 1 - Download latest release
+
 2 - Unzip it and throw it where you want
+
 3 - Go to \plugins\GTPS-discordbot/ and open config.yml
+
 4 - Put your discord bot token and your gtps server path
+
 5 - After save it and go to main directory and run start.exe
 
 # Basic Usage

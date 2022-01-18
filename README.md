@@ -1,16 +1,16 @@
-# DiSky
-Whole remake of the original Vixio project, which allows Skript to interact with Discord bot.
+# GTPS-discordbot
+Whole make GTPS-discordbot tool with SkriptLang
 
-![License](https://img.shields.io/github/license/SkyCraft78/DiSky?style=flat-square)
-![Owner](https://img.shields.io/badge/Owner-ItsTheSky-orange?style=flat-square)
-[![Discord](https://img.shields.io/badge/Discord-whWuXwaVwM-blue?style=flat-square)](https://discord.gg/whWuXwaVwM)
+![Owner](https://img.shields.io/badge/Owner-Pocan-orange?style=flat-square)
+[![Discord](https://img.shields.io/badge/Discord-whWuXwaVwM-blue?style=flat-square)](https://discord.gg/aJDhZ34Tet)
 
-# Links
+# Install
 
-* [Documentation](https://disky.itsthesky.info/?page=docs)
-* Wiki _(Soon)_
-* [Discord](https://discord.gg/whWuXwaVwM)
-* [Download](https://github.com/SkyCraft78/DiSky3/releases/)
+1 - Download latest release
+2 - Unzip it and throw it where you want
+3 - Go to \plugins\GTPS-discordbot/ and open config.yml
+4 - Put your discord bot token and your gtps server path
+5 - After save it and go to main directory and run start.exe
 
 # Basic Usage
 
